@@ -1,5 +1,5 @@
-<h1
+<h3
     align="center"
 >
-  RECIPE PAGE
-</h1>
+  REVENUE PAGE
+</h3>
