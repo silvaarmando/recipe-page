@@ -1,5 +1,5 @@
-<h3
+<h1
     align="center"
 >
   REVENUE PAGE
-</h3>
+</h1>
