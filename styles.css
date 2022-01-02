@@ -2,9 +2,35 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
- }
+}
 
 body {
-  background: #eaeaea;
+  background: #EAEAEA;
   font-family: 'Roboto', sans-serif;
+}
+
+.receita {
+  background: #FFFFFF;
+}
+
+.igredientes, .modo_preparo {
+  font-size: 1rem;
+  color: #39393A;
+}
+
+h1, h2 {
+  color: #1B1B1B;
+}
+
+h1 {
+  font-size: 1.75rem;
+}
+
+h2 {
+  font-size: 1.25rem;
+}
+
+figure.figcation, footer {
+  color: #8F8F8F;
+  font-size: 0.75rem;
 }
