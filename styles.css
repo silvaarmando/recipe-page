@@ -13,13 +13,23 @@ body {
   background: #FFFFFF;
 }
 
-.igredientes, .modo_preparo {
+ul.igredientes, ol.modo-preparo {
   font-size: 1rem;
   color: #39393A;
+  line-height: 1.625rem;
+}
+
+div.igredientes div.modo-preparo {
+  text-align: center;
+}
+
+ul, ol {
+  list-style-position: inside;
 }
 
 h1, h2 {
   color: #1B1B1B;
+  text-align: center;
 }
 
 h1 {
@@ -33,4 +43,12 @@ h2 {
 figure.figcation, footer {
   color: #8F8F8F;
   font-size: 0.75rem;
+}
+
+.image {
+  text-align: center;
+}
+
+figure.figcaption {
+  text-align: center;
 }
