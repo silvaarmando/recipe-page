@@ -1,5 +1,5 @@
 <h1
     align="center"
 >
-  REVENUE PAGE
+    RECEITA DE WAFFLE CLÁSSICO
 </h1>
